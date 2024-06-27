@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './App.css';
-import Task from './Task';
 
 function App() {
 
@@ -55,18 +54,6 @@ function App() {
           ))}
         </div>
       )}
-
-
-
-    {/* <div className="container">
-    {taskList.map((item, index) => (
-        <div key={index} className="task-item">
-          {item} 
-          <button onClick={() => deleteTask(index)}>Delete</button>
-        </div>
-      ))}
-    </div> */}
-
     </>
   );
 }

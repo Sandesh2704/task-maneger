@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sandesh2704/task-maneger.git/static/css/main.f855e6bc.css",
+    "main.js": "/Sandesh2704/task-maneger.git/static/js/main.c2416568.js",
+    "static/js/453.a53b11f0.chunk.js": "/Sandesh2704/task-maneger.git/static/js/453.a53b11f0.chunk.js",
+    "static/media/logo.svg": "/Sandesh2704/task-maneger.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sandesh2704/task-maneger.git/index.html",
+    "main.f855e6bc.css.map": "/Sandesh2704/task-maneger.git/static/css/main.f855e6bc.css.map",
+    "main.c2416568.js.map": "/Sandesh2704/task-maneger.git/static/js/main.c2416568.js.map",
+    "453.a53b11f0.chunk.js.map": "/Sandesh2704/task-maneger.git/static/js/453.a53b11f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c2416568.js"
+  ]
+}
